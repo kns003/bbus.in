@@ -19,6 +19,3 @@ def table2json(rows):
             c+=1
         hops.append(json_dict)
     return hops
-    
-
-
